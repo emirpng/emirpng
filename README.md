@@ -4,7 +4,7 @@
 
 <div align="center" width="200">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&size=30&duration=4000&pause=1000&color=1BF706&width=435&height=100&lines=Profilime+ho%C5%9Fgeldin.+%3C%2F%3E;Benim+ad%C4%B1m+Emir.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&size=30&duration=4000&pause=1000&color=1BF706&width=435&height=100&lines=Profilime+ho%C5%9Fgeldin.+%3C%2F%3E;Benim+ad%C4%B1m+Emir.)](https://git.io/emirpng)
 
 </div>
 
